@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ *
  * main - entry point
  *
  * Description: Print all the digits of base 16 in lowercase
@@ -8,7 +9,7 @@
  */
 int main(void)
 {
-char base_i6;
+char base_16;
 
 for (base_16 = 48; base_16 <= 57; base_16++)
 {putchar(base_16);
