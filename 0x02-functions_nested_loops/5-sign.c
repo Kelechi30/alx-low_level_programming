@@ -17,6 +17,11 @@ if (n > 0)
 else if (n == 0)
 {
 	test = 0;
+	_putcher('0')
+}
+else
+{
+	test = -1
 	_putchar('-');
 }
 
