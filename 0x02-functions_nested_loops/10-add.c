@@ -2,6 +2,9 @@
 
 /**
  *adds two integers
+ * @n1: integer 1
+ * @n2: integer 2
+ * Descripton: give two integers, returns sum
  * return: sum
  */
 
