@@ -1,0 +1,1 @@
+practising arrays and strings
