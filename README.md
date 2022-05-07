@@ -1,1 +1,1 @@
-C language is pretty awesome
+more practise of malloc
